@@ -214,20 +214,6 @@ Para não precisar definir a variável toda vez, adicione permanentemente ao sis
 
 ---
 
-## 👨‍💻 Autor
-
-<div align="center">
-  <a href="https://github.com/SilvaneiMartins">
-    <img src="https://github.com/SilvaneiMartins.png" width="100px" style="border-radius:50%" alt="Silvanei Martins"/>
-  </a>
-  <br/>
-  <strong>Silvanei Martins</strong>
-  <br/>
-  <a href="https://github.com/SilvaneiMartins">github.com/SilvaneiMartins</a>
-</div>
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
